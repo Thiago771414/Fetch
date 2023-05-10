@@ -8,7 +8,7 @@
 ![Fetch](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/fetch.png)
 
 ## Vídeo de demonstração
-[[Vídeo de demonstração]](https://youtu.be/CFu8m2LVCAs)
+[[Vídeo de demonstração]](https://youtu.be/w6dAdzXYJrU)
 
 # Tecnologias utilizadas
 
